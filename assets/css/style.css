@@ -70,6 +70,47 @@ h2{
     margin-bottom:1.5rem;
 }
 
+/* Media qyeries*/
+
+/*Medium devices (tablets, 768px and up */
+@media screen and (min-width: 768px){
+    /* All service cards the same height for consistency */
+
+    #services .card-body{
+        min-height:190px;
+    }
+}
+
+/* Large devices (small laptops, 992px and up) */
+@media screen and (min-width: 992){
+    /* All service cards the same height for consistency */
+
+    #services .card-body{
+        min-height:auto;
+    }
+}
+
+/* Large devices (large desktops, 1200px and up) */
+@media screen and (min-width: 992){
+
+    #services .card-body{
+        min-height:220;
+    }
+}
+
+
+/* Large devices (large desktops, 1400px and up) */
+@media screen and (min-width: 992){
+
+    #services .card-body{
+        min-height:195;
+    }
+}
+
+
+
+
+
 /* grid visualisation CSS for testing */
 
 /* .container,
