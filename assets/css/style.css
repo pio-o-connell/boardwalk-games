@@ -39,8 +39,8 @@ h2{
 }
 
 .section {
-    margin-top: 2rem;
-    margin-bottom: 2rem;
+    margin-top: 4rem;
+  /*  margin-bottom: 2rem; top wwas 2*/
 }
 
 /* Buttons */
