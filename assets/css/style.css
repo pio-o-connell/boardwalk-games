@@ -110,6 +110,9 @@ h2{
     color: var(--secondary-color);
 }
 
+#contact .table-dark *{
+    background-color: transparent;
+}
 /* Media qyeries*/
 
 /*Medium devices (tablets, 768px and up */
