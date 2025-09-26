@@ -181,7 +181,7 @@ h2{
 
 
 /* Large devices (large desktops, 1400px and up) */
-@media screen and (min-width: 1400){
+@media screen and (min-width: 1400px){
 
     #services .card-body{
         min-height:195px;
